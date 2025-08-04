@@ -1,5 +1,5 @@
 To run:
-create virtual enviroment
+create virtual enviroment,
 pip install requirement.txt all
 
 Wholesale Inventory & Sales Management System Documentation
